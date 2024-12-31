@@ -1,4 +1,4 @@
-## Mass WHM To cPanel Account Reset
+## Mass WHM To cPanel Password Reset
 
 **Tool Format:** https://domain.com:2087|user|pass
 
